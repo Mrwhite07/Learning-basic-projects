@@ -35,4 +35,9 @@ img{
     width: 50%;
     height: 50%;
     margin-left: 550px ;
+    border: 2px solid red;
+    border-radius: 2500px;
+}
+*{
+    background-color: black;
 }
