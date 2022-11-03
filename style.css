@@ -1,0 +1,38 @@
+h1{
+    color: antiquewhite;
+    background-color: black;
+    font-size:xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.p1{ 
+    color: black;
+    background-color: black;
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 550px ;
+
+}
+.p2{
+    color: antiquewhite;
+    background-color: yellowgreen;
+    font-size:medium;
+    font-weight: bolder;
+}
+.p3{
+    color: antiquewhite;
+    background-color:chartreuse;
+    font-size:medium;
+    font-weight: bolder;
+}
+.p4{
+    color: ghostwhite;
+    background-color:blueviolet;
+    font-size:medium;
+    font-weight: bolder;
+}
+img{
+    width: 50%;
+    height: 50%;
+    margin-left: 550px ;
+}
